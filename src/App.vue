@@ -80,6 +80,7 @@
       <div class="title">车牌输入 InputCarPlate</div>
       <f-input-car-plate v-model="carPlate"></f-input-car-plate>
     </div>
+    <test></test>
   </div>
 </template>
 
